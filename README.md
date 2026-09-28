@@ -1,3 +1,4 @@
+<img width="1250" height="612" alt="trabalho" src="https://github.com/user-attachments/assets/2331a1fa-8147-4692-9905-7715a2297e09" />
 # 🛡️ Laboratório de Cibersegurança & Defesa em Profundidade com pfSense
 
 Este projeto documenta a implementação e validação de um ambiente de rede seguro utilizando o **pfSense CE**, focado em prevenção contra ameaças, controlo de acessos, VPN segura e monitorização de tráfego com IDS/IPS em tempo real.
